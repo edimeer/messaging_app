@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "@popperjs/core": "^2.11.8"
+    "@doabit/semantic-ui-sass": "^2.4.5",
+    "@popperjs/core": "^2.11.8",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
   }
 }
